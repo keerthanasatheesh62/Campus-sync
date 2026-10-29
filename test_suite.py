@@ -2,7 +2,7 @@ import sys
 import io
 import os
 import json
-
+import app
 from app import app
 client = app.test_client()
 
