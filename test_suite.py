@@ -2,7 +2,7 @@ import sys
 import io
 import os
 import json
-
+app = Flask(Campus sync)
 from app import app
 client = app.test_client()
 
